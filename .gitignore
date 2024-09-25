@@ -1,7 +1,7 @@
-/act18_3.txt
+/act*
 /functional-tests.log
 /myModule.py
 /outpath_ex.txt
 /playground.ipynb
-/test.txt
-/test_file_1.txt
+/test*
+/file1.txt
